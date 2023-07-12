@@ -1,6 +1,6 @@
 {
   "name": "simple-toastify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "browser": "simple-toastify.js",
   "homepage": "https://github.com/Moondongo/simple-toastify#README.md",
   "repository": {
